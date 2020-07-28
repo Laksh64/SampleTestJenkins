@@ -1,0 +1,7 @@
+E:\DevOps\SampleProjectJenkinsSolution\SampleProjectJenkins\bin\Debug\SampleProjectJenkins.exe.config
+E:\DevOps\SampleProjectJenkinsSolution\SampleProjectJenkins\bin\Debug\SampleProjectJenkins.exe
+E:\DevOps\SampleProjectJenkinsSolution\SampleProjectJenkins\bin\Debug\SampleProjectJenkins.pdb
+E:\DevOps\SampleProjectJenkinsSolution\SampleProjectJenkins\obj\Debug\SampleProjectJenkins.csprojAssemblyReference.cache
+E:\DevOps\SampleProjectJenkinsSolution\SampleProjectJenkins\obj\Debug\SampleProjectJenkins.csproj.CoreCompileInputs.cache
+E:\DevOps\SampleProjectJenkinsSolution\SampleProjectJenkins\obj\Debug\SampleProjectJenkins.exe
+E:\DevOps\SampleProjectJenkinsSolution\SampleProjectJenkins\obj\Debug\SampleProjectJenkins.pdb
